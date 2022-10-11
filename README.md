@@ -1,3 +1,4 @@
 # OFXA Host Information
 
-Information is held in [the wiki](https://github.com/ofxa/host-info/wiki)
+This info has all been migrated to the new wiki as of 2022: https://wiki.aswf.io/pages/viewpage.action?pageId=44113287
+This repo is archived.
